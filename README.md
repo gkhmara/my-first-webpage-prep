@@ -20,7 +20,7 @@ This site is practice for me to get used to writing HTML and pushing files to gi
 
 ## Known Bugs
 
-* There are no known bugs.
+* This site my not function properly in all browsers.
 
 ## License
 
